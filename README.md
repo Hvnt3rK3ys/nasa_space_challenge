@@ -68,6 +68,20 @@ Our Team:
 [https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members)
 
 
+Manuel:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
+Sharik:
+
+
+Mariana:
+https://github.com/MarianOspina
+
+Ivonne:
+https://github.com/IvonneSierra
+
+Alexandra:
+https://github.com/0Kelly087
+
+David:
+https://github.com/DAID204
