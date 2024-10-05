@@ -50,7 +50,7 @@
             OurMap.module.scss (Styling the map component)
 ```
 
-##2024 NASA Space Apps Challenge TeKnoCrafters##
+## 2024 NASA Space Apps Challenge TeKnoCrafters
 **Our Team**
 [https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members)
 
