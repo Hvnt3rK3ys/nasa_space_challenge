@@ -56,20 +56,16 @@ Landsat missions have provided the longest continuous dataset of remotely sensed
 
 
 
-2024 NASA Space Apps Challenge
+#2024 NASA Space Apps Challenge TeKnoCrafters
+**Our Team**
+[https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members)
 
-TeKnoCrafters
 
 ## About the team:
 We're a team of developers 👩‍💻 and mathematicians 🧮:
 Dedicated to creating value through our solutions. Specifically, we aim to optimize our algorithms to ensure that machine learning models run efficiently, consuming less energy and thereby conserving water. 
 Our project focuses on developing a web-based application that supports the comparison of ground-based observations with Landsat data. 
 This application will facilitate experiential learning, encourage scientific exploration, foster interdisciplinary and spatial thinking skills, and empower individuals to become informed global citizens.
-
-
-**Our Team:** 
-    [https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members)
-
 
 **Manuel:**
     [https://github.com/Hvnt3rK3ys](https://github.com/Hvnt3rK3ys)
