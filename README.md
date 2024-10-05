@@ -29,8 +29,28 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+
+
+## About the Challenge
+Landsat missions have provided the longest continuous dataset of remotely sensed measurements of Earth’s land surface. Comparing ground-based spectral measurements with Landsat Surface Reflectance (SR) data collected at the same time can facilitate experiential learning, encourage scientific exploration with satellite data, foster interdisciplinary and spatial thinking skills, and empower individuals to become informed global citizens. But to compare ground-based measurements with Landsat data, you need to know when Landsat will be passing over a specific land area, and then be able to access the Landsat data collected at that place and time. Your challenge is to develop a web-based application that supports the comparison of ground-based observations with Landsat data by allowing users to define a target location, receive notifications when Landsat is to pass over that location, and then access and display the corresponding Landsat SR data.
+
+
+
+## About the team:
+We're a team of developers 👩‍💻 and mathematicians 🧮:
+Dedicated to creating value through our solutions. Specifically, we aim to optimize our algorithms to ensure that machine learning models run efficiently, consuming less energy and thereby conserving water. 
+Our project focuses on developing a web-based application that supports the comparison of ground-based observations with Landsat data. 
+This application will facilitate experiential learning, encourage scientific exploration, foster interdisciplinary and spatial thinking skills, and empower individuals to become informed global citizens.
+
+
+
+Our Team: 
+[https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members)
+
+
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
+
+## Neo.js
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
