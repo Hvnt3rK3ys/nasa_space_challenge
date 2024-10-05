@@ -72,7 +72,7 @@ This application will facilitate experiential learning, encourage scientific exp
     [https://github.com/Hvnt3rK3ys](https://github.com/Hvnt3rK3ys)
 
 **Sharik:**
-[]()
+    [https://github.com/SharWasHere](https://github.com/SharWasHere)
 
 **Mariana:**
     [https://github.com/MarianOspina](https://github.com/MarianOspina)
