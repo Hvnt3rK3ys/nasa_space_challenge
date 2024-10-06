@@ -1,6 +1,5 @@
 import React from "react";
 import { useRouter } from 'next/router';
-import { ThemeProvider } from '@nextui-org/react';
 
 import Header from '../components/fHeader/Header';
 import LeMapa from '../components/fEarthMap/LeMapa';
