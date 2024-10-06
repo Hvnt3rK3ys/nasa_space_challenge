@@ -1,37 +1,48 @@
-.globalHeader {
-  width: 100vw;
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: black; // Fondo negro para la pantalla de bienvenida
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.welcomeScreen {
-  text-align: center;
-}
-
-.welcomeText {
-  font-size: 3rem;
-  color: white; // Letras blancas para el texto de bienvenida
-  margin-bottom: 2rem;
-}
-
-.continueButton {
-  padding: 1rem 2rem;
-  font-size: 1.2rem;
-  background-color: #39ff14; // Color verde neón para el botón
-  color: black;
-  border: none;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-
-.continueButton:hover {
-  background-color: #28cc0f; // Cambia el color al pasar el ratón
-}
-
-.nextScreen {
-  text-align: center;
+body {
   color: white;
+  font-family: 'calibri', sans-serif;
 }
+
+.header {
+  background: url('logo.png');
+  height: 450px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.section {
+  max-width: 1000px;
+  margin: auto;
+  padding: 30px 0;
+}
+
+.section h1 {
+  font-size: 44px;
+}
+
+.conte {
+  text-align: center;
+}
+
+.conte p {
+  font-size: 60px;
+  font-weight: bold;
+  margin: 1em 0;
+}
+
+.conte a {
+  color: white;
+  text-decoration: none;
+  background: #8BC34A;
+  padding: 4px 20px;
+  border-radius: 30px;
+  font-size: 30px;
+  margin: 10px;
+}
+
