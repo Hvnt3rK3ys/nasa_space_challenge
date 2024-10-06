@@ -5,7 +5,7 @@ const LeMapa = () => {
 	return (
     <>
     <section className={styles.globalContainer}>
-      <h1>AQUI VA EL MAPA</h1>
+      <h1>sjkshkhskd</h1>
     </section>
     </>
   );
