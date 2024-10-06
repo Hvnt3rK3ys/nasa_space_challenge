@@ -1,9 +1,13 @@
-import React from 'react'
+import React from 'react';
 
-const LeMapa = () => {
-  return (
-    <div>LeMapa</div>
-  )
+interface LeMapaProps {
+  className?: string;
 }
 
-export default LeMapa
+const LeMapa: React.FC<LeMapaProps> = ({ className }) => {
+  return (
+    <div className={className}>LeMapa</div>
+  );
+}
+
+export default LeMapa;
