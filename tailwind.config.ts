@@ -9,11 +9,27 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        background: "var(--black-color)",
+        foreground: "var(--white-color)",
+        primary: "var(--primary-color)",
+        secondary: "var(--secondary-color)",
+        primaryCompliment: "var(--primary-compliment)",
+        secondaryCompliment: "var(--secondary-compliment)",
+        lightGray: "var(--lightGray-color)",
+        gray: "var(--gray-color)",
+        greenGray: "var(--greenGray-color)",
+        black: "var(--black-color)",
+        white: "var(--white-color)",
+      },
+      fontFamily: {
+        base: "var(--font-base)",
+      },
+      backgroundImage: {
+        'gradient-bg': 'var(--bg-gradient)',
       },
     },
   },
   plugins: [],
 };
+
 export default config;

@@ -1,0 +1,37 @@
+.globalHeader {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black; // Fondo negro para la pantalla de bienvenida
+}
+
+.welcomeScreen {
+  text-align: center;
+}
+
+.welcomeText {
+  font-size: 3rem;
+  color: white; // Letras blancas para el texto de bienvenida
+  margin-bottom: 2rem;
+}
+
+.continueButton {
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  background-color: #39ff14; // Color verde neón para el botón
+  color: black;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.continueButton:hover {
+  background-color: #28cc0f; // Cambia el color al pasar el ratón
+}
+
+.nextScreen {
+  text-align: center;
+  color: white;
+}

@@ -1,7 +1,13 @@
-//Mobile First Approach
-@media screen and (min-width: 426px) and (max-width: 1023px) {
-	//some properties for TABLET
-}
-@media screen and (min-width: 1024px) and (max-width: 2560px) {
-  //some properties for DESKTOP
+// PickedData.module.scss
+.globalDownload {
+  width: 80vw; // Mobile
+  height: auto; // Mobile
+  margin-top: 2vh; // Mobile
+  margin-bottom: 4vh; // Mobile
+  @media screen and (min-width: 426px) and (max-width: 1023px) {
+    width: 76vw; // Tablet
+  }
+  @media screen and (min-width: 1024px) and (max-width: 2560px) {
+    width: 60vw; // Desktop
+  }
 }
