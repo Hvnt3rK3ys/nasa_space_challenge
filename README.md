@@ -1,6 +1,6 @@
-# 2024 NASA Space Apps Challenge
+# *2024 NASA Space Apps Challenge*
 
-# Unix tree for the project, saved at the source directory
+# *Unix tree for the project, saved at the source directory*
 ```python
 ├───components
 │   ├───fEarthMap (Components for the map visualization)
@@ -52,32 +52,34 @@
             OurMap.module.scss (Styling the map component)
 ```
 
-# TeKnoCrafters:
+# *TeKnoCrafters:* 
+    [https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members)
 
-[https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members)
-
-
-## About the Challenge
-Landsat missions have provided the longest continuous dataset of remotely sensed measurements of Earth’s land surface. Comparing ground-based spectral measurements with Landsat Surface Reflectance (SR) data collected at the same time can facilitate experiential learning, encourage scientific exploration with satellite data, foster interdisciplinary and spatial thinking skills, and empower individuals to become informed global citizens. But to compare ground-based measurements with Landsat data, you need to know when Landsat will be passing over a specific land area, and then be able to access the Landsat data collected at that place and time. Your challenge is to develop a web-based application that supports the comparison of ground-based observations with Landsat data by allowing users to define a target location, receive notifications when Landsat is to pass over that location, and then access and display the corresponding Landsat SR data.
-
-
-## About the team:
+# *About the team:*
 We're a team of developers 👩‍💻 and mathematicians 🧮:
 Dedicated to creating value through our solutions. Specifically, we aim to optimize our algorithms to ensure that machine learning models run efficiently, consuming less energy and thereby conserving water. 
 Our project focuses on developing a web-based application that supports the comparison of ground-based observations with Landsat data. 
 This application will facilitate experiential learning, encourage scientific exploration, foster interdisciplinary and spatial thinking skills, and empower individuals to become informed global citizens.
 
-**Manuel:**
+
+# *About the Challenge:*
+Landsat missions have provided the longest continuous dataset of remotely sensed measurements of Earth’s land surface. Comparing ground-based spectral measurements with Landsat Surface Reflectance (SR) data collected at the same time can facilitate experiential learning, encourage scientific exploration with satellite data, foster interdisciplinary and spatial thinking skills, and empower individuals to become informed global citizens. But to compare ground-based measurements with Landsat data, you need to know when Landsat will be passing over a specific land area, and then be able to access the Landsat data collected at that place and time. Your challenge is to develop a web-based application that supports the comparison of ground-based observations with Landsat data by allowing users to define a target location, receive notifications when Landsat is to pass over that location, and then access and display the corresponding Landsat SR data.
+
+
+# *Submission:*
+    [https://www.canva.com/design/DAGS030B_1w/eF5TdqaOkMITtaJ2X-_W4g/edit?utm_content=DAGS030B_1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+# *Manuel:*
     [https://github.com/Hvnt3rK3ys](https://github.com/Hvnt3rK3ys)
 
-**Mariana:**
+# *Mariana:*
     [https://github.com/MarianOspina](https://github.com/MarianOspina)
 
-**Ivonne:**
+# *Ivonne:*
     [https://github.com/IvonneSierra](https://github.com/IvonneSierra)
 
-**Alexandra:**
+# *Alexandra:*
     [https://github.com/0Kelly087](https://github.com/0Kelly087)
 
-**David:**
+# *David:*
     [https://github.com/DAID204](https://github.com/DAID204)
