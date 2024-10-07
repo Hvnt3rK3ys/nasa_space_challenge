@@ -53,7 +53,6 @@
 ```
 
 # *TeKnoCrafters:*
-
 [https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members)
 
 
@@ -72,17 +71,17 @@ This application will facilitate experiential learning, encourage scientific exp
 [https://www.canva.com/design/DAGS030B_1w/eF5TdqaOkMITtaJ2X-_W4g/edit?utm_content=DAGS030B_1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 (https://www.canva.com/design/DAGS030B_1w/eF5TdqaOkMITtaJ2X-_W4g/edit?utm_content=DAGS030B_1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-**Manuel:**
+# *Manuel:*
     [https://github.com/Hvnt3rK3ys](https://github.com/Hvnt3rK3ys)
 
-**Mariana:**
+# *Mariana:*
     [https://github.com/MarianOspina](https://github.com/MarianOspina)
 
 # *Ivonne:*
     [https://github.com/IvonneSierra](https://github.com/IvonneSierra)
 
-**Alexandra:**
+# *Alexandra:*
     [https://github.com/0Kelly087](https://github.com/0Kelly087)
 
-**David:**
+# *David:*
     [https://github.com/DAID204](https://github.com/DAID204)
