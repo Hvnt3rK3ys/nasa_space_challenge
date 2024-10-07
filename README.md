@@ -1,12 +1,11 @@
 # *2024 NASA Space Apps Challenge*
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/e3e3f498-79dd-464e-ab64-930bf5573405
-" width=400/>
+  <video src="https://github.com/user-attachments/assets/e3e3f498-79dd-464e-ab64-930bf5573405" width=400/>
 <p/>
 
 # *TeKnoCrafters:* 
-    https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members
+    [https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=project)
 
 # *About the team:*
 We're a team of developers 👩‍💻 and mathematicians 🧮:
@@ -75,8 +74,9 @@ Landsat missions have provided the longest continuous dataset of remotely sensed
             OurMap.module.scss (Styling the map component)
 ```
 
-# *Team members:*
-    
+# *Team membersTeKnoCrafters:* 
+    https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members
+   
 # *Manuel:*
     https://github.com/Hvnt3rK3ys
     
