@@ -1,7 +1,11 @@
 import React from 'react';
 import Map from './DynamicMap';
 
-const App: React.FC = () => {
+interface LeMapaProps {
+  className?: string; // Añadimos className como una prop opcional
+}
+
+const LeMapa: React.FC<LeMapaProps> = ({ className }) => {
   return (
     <div>
       <h1>Mapa con Leaflet</h1>
@@ -10,4 +14,4 @@ const App: React.FC = () => {
   );
 };
 
-export default App;
+export default LeMapa;

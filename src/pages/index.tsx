@@ -29,7 +29,6 @@ const HomePage = () => {
         Explore Data
       </button>
       <LeMapa className="w-11/12 md:w-full lg:w-4/5 mt-5" />
-
     </div>
   );
 };
