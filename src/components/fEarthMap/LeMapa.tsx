@@ -7,7 +7,7 @@ interface LeMapaProps {
 
 const LeMapa: React.FC<LeMapaProps> = ({ className }) => {
   return (
-    <div>
+    <div className={className}> {/* Usamos className aquí */}
       <h1>Mapa con Leaflet</h1>
       <Map anchor={[4.7422471, -74.0284534]} />
     </div>
