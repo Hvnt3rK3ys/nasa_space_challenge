@@ -1,8 +1,7 @@
 # *2024 NASA Space Apps Challenge*
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/e3e3f498-79dd-464e-ab64-930bf5573405
-" width=400/>
+  <video src="https://github.com/user-attachments/assets/e3e3f498-79dd-464e-ab64-930bf5573405" width=400/>
 <p/>
 
 # *TeKnoCrafters:* 
