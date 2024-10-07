@@ -1,6 +1,6 @@
 # *2024 NASA Space Apps Challenge*
 
-![Video Title]([https://github.com/user-attachments/assets/87823087-931b-4258-87cc-dd557c6a1de4](https://github.com/user-attachments/assets/87823087-931b-4258-87cc-dd557c6a1de4)
+![TeKnoCrafters]([https://github.com/user-attachments/assets/87823087-931b-4258-87cc-dd557c6a1de4](https://github.com/user-attachments/assets/87823087-931b-4258-87cc-dd557c6a1de4)
 
 
 
