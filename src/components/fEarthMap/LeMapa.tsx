@@ -1,15 +1,13 @@
-import React from "react";
-import styles from "../../styles/sHome/OurMap.module.scss";
+import React from 'react';
+import Map from './DynamicMap';
 
-const LeMapa = () => {
-	return (
-    <>
-    <section className={styles.globalContainer}>
-      <h1>AQUI VA EL MAPA</h1>
-    </section>
-    </>
+const App: React.FC = () => {
+  return (
+    <div>
+      <h1>Mapa con Leaflet</h1>
+      <Map anchor={[4.7422471, -74.0284534]} />
+    </div>
   );
 };
 
-export default LeMapa;
-
+export default App;

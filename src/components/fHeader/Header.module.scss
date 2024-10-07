@@ -1,0 +1,107 @@
+// Estilos globales
+$primary-color: #3498db;
+$secondary-color: #2ecc71;
+$background-color: #f9f9f9;
+$text-color: #333;
+
+// Global Header
+.globalHeader {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 0;
+  box-sizing: border-box;
+
+  section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .title {
+    font-size: 24px;
+    color: $primary-color;
+    font-weight: bold;
+  }
+
+  .container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  p {
+    font-size: 14px;
+    color: #666;
+  }
+}
+
+// Dashboard Container
+.dashboardContainer {
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+// Card Component
+.card {
+  background-color: white;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+
+  &__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e0e0e0;
+  }
+
+  &__title {
+    font-size: 18px;
+    font-weight: bold;
+    color: $primary-color;
+  }
+
+  &__content {
+    margin-top: 15px;
+  }
+}
+
+// Logo Container
+.logo-container {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+
+  img {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+  }
+}
+
+// Button Styles
+.continueButton {
+  padding: 10px 20px;
+  font-size: 14px;
+  background-color: $secondary-color;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: darken($secondary-color, 10%);
+  }
+}
+
+// Text Alignment
+.nextScreen {
+  text-align: center;
+  color: $text-color;
+}

@@ -1,15 +1,22 @@
 import React from "react";
-import styles from "../../styles/sHome/Header.module.scss";
+import styles from "./Header.module.scss";
 
+interface HeaderProps {
+  className?: string;
+}
 
-const Header = () => {
+const Header: React.FC<HeaderProps> = ({ className }) => {
   return (
-    <>
-      <section className={styles.globalHeader}>
-        <h1>Header</h1>
+    <header className={`${styles.globalHeader} ${className}`}>
+      <section>
+        <h1 className={styles.title}>SPACE APP CHALLENGE</h1>
+        <div className={styles.container}>
+          <p>Welcome LANDSTAT</p>
+        </div>
       </section>
-    </>
+    </header>
   );
 };
 
 export default Header;
+
