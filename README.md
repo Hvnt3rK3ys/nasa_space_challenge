@@ -1,5 +1,23 @@
 # *2024 NASA Space Apps Challenge*
 
+
+https://github.com/user-attachments/assets/87823087-931b-4258-87cc-dd557c6a1de4
+
+
+# *TeKnoCrafters:* 
+    https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members
+
+# *About the team:*
+We're a team of developers 👩‍💻 and mathematicians 🧮:
+Dedicated to creating value through our solutions. Specifically, we aim to optimize our algorithms to ensure that machine learning models run efficiently, consuming less energy and thereby conserving water. 
+Our project focuses on developing a web-based application that supports the comparison of ground-based observations with Landsat data. 
+This application will facilitate experiential learning, encourage scientific exploration, foster interdisciplinary and spatial thinking skills, and empower individuals to become informed global citizens.
+
+
+# *About the Challenge:*
+Landsat missions have provided the longest continuous dataset of remotely sensed measurements of Earth’s land surface. Comparing ground-based spectral measurements with Landsat Surface Reflectance (SR) data collected at the same time can facilitate experiential learning, encourage scientific exploration with satellite data, foster interdisciplinary and spatial thinking skills, and empower individuals to become informed global citizens. But to compare ground-based measurements with Landsat data, you need to know when Landsat will be passing over a specific land area, and then be able to access the Landsat data collected at that place and time. Your challenge is to develop a web-based application that supports the comparison of ground-based observations with Landsat data by allowing users to define a target location, receive notifications when Landsat is to pass over that location, and then access and display the corresponding Landsat SR data.
+
+
 # *Unix tree for the project, saved at the source directory*
 ```python
 ├───components
@@ -51,19 +69,6 @@
             Header.module.scss (Styling the header component)
             OurMap.module.scss (Styling the map component)
 ```
-
-# *TeKnoCrafters:* 
-    https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members
-
-# *About the team:*
-We're a team of developers 👩‍💻 and mathematicians 🧮:
-Dedicated to creating value through our solutions. Specifically, we aim to optimize our algorithms to ensure that machine learning models run efficiently, consuming less energy and thereby conserving water. 
-Our project focuses on developing a web-based application that supports the comparison of ground-based observations with Landsat data. 
-This application will facilitate experiential learning, encourage scientific exploration, foster interdisciplinary and spatial thinking skills, and empower individuals to become informed global citizens.
-
-
-# *About the Challenge:*
-Landsat missions have provided the longest continuous dataset of remotely sensed measurements of Earth’s land surface. Comparing ground-based spectral measurements with Landsat Surface Reflectance (SR) data collected at the same time can facilitate experiential learning, encourage scientific exploration with satellite data, foster interdisciplinary and spatial thinking skills, and empower individuals to become informed global citizens. But to compare ground-based measurements with Landsat data, you need to know when Landsat will be passing over a specific land area, and then be able to access the Landsat data collected at that place and time. Your challenge is to develop a web-based application that supports the comparison of ground-based observations with Landsat data by allowing users to define a target location, receive notifications when Landsat is to pass over that location, and then access and display the corresponding Landsat SR data.
 
 
 # *Submission:*
