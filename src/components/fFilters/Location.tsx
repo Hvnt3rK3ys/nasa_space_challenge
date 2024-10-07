@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, ChangeEvent, FormEvent } from "react";
 import styles from "../../styles/sHome/F_Location.module.scss";
 import { TextField, Button } from "@mui/material";
 import { Input } from "@nextui-org/react";
@@ -11,16 +11,16 @@ const Location: React.FC<LocationProps> = ({ className }) => {
   const [location, setLocation] = useState("");
   const [coordinates, setCoordinates] = useState({ lat: "", long: "" });
 
-  const handleLocationChange = (event: { target: { value: React.SetStateAction<string>; }; }) => {
+  const handleLocationChange = (event: ChangeEvent<HTMLInputElement>) => {
     setLocation(event.target.value);
   };
 
-  const handleCoordinatesChange = (event: { target: { name: any; value: any; }; }) => {
+  const handleCoordinatesChange = (event: ChangeEvent<HTMLInputElement>) => {
     const { name, value } = event.target;
     setCoordinates((prev) => ({ ...prev, [name]: value }));
   };
 
-  const handleSubmit = (event: { preventDefault: () => void; }) => {
+  const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
     console.log("Location:", location);
     console.log("Coordinates:", coordinates);
@@ -61,4 +61,3 @@ const Location: React.FC<LocationProps> = ({ className }) => {
 };
 
 export default Location;
-
