@@ -1,3 +1,5 @@
+# 2024 NASA Space Apps Challenge
+
 # Unix tree for the project, saved at the source directory
 ```python
 ├───components
@@ -50,7 +52,6 @@
             OurMap.module.scss (Styling the map component)
 ```
 
-## 2024 NASA Space Apps Challenge
 # TeKnoCrafters:
 
 #[https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members)
