@@ -1,12 +1,11 @@
 # *2024 NASA Space Apps Challenge*
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/e3e3f498-79dd-464e-ab64-930bf5573405
-" width=400/>
+  <video src="https://github.com/user-attachments/assets/e3e3f498-79dd-464e-ab64-930bf5573405" width=400/>
 <p/>
 
 # *TeKnoCrafters:* 
-    https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members
+    [https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=project)
 
 # *About the team:*
 We're a team of developers 👩‍💻 and mathematicians 🧮:
@@ -17,6 +16,10 @@ This application will facilitate experiential learning, encourage scientific exp
 
 # *About the Challenge:*
 Landsat missions have provided the longest continuous dataset of remotely sensed measurements of Earth’s land surface. Comparing ground-based spectral measurements with Landsat Surface Reflectance (SR) data collected at the same time can facilitate experiential learning, encourage scientific exploration with satellite data, foster interdisciplinary and spatial thinking skills, and empower individuals to become informed global citizens. But to compare ground-based measurements with Landsat data, you need to know when Landsat will be passing over a specific land area, and then be able to access the Landsat data collected at that place and time. Your challenge is to develop a web-based application that supports the comparison of ground-based observations with Landsat data by allowing users to define a target location, receive notifications when Landsat is to pass over that location, and then access and display the corresponding Landsat SR data.
+
+
+# *Submission:*
+    https://www.canva.com/design/DAGS030B_1w/eF5TdqaOkMITtaJ2X-_W4g/edit?utm_content=DAGS030B_1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 # *Unix tree for the project, saved at the source directory*
@@ -71,10 +74,9 @@ Landsat missions have provided the longest continuous dataset of remotely sensed
             OurMap.module.scss (Styling the map component)
 ```
 
-
-# *Submission:*
-    https://www.canva.com/design/DAGS030B_1w/eF5TdqaOkMITtaJ2X-_W4g/edit?utm_content=DAGS030B_1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-    
+# *Team membersTeKnoCrafters:* 
+    https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members
+   
 # *Manuel:*
     https://github.com/Hvnt3rK3ys
     
