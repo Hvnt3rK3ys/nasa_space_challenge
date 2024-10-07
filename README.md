@@ -19,6 +19,10 @@ This application will facilitate experiential learning, encourage scientific exp
 Landsat missions have provided the longest continuous dataset of remotely sensed measurements of Earth’s land surface. Comparing ground-based spectral measurements with Landsat Surface Reflectance (SR) data collected at the same time can facilitate experiential learning, encourage scientific exploration with satellite data, foster interdisciplinary and spatial thinking skills, and empower individuals to become informed global citizens. But to compare ground-based measurements with Landsat data, you need to know when Landsat will be passing over a specific land area, and then be able to access the Landsat data collected at that place and time. Your challenge is to develop a web-based application that supports the comparison of ground-based observations with Landsat data by allowing users to define a target location, receive notifications when Landsat is to pass over that location, and then access and display the corresponding Landsat SR data.
 
 
+# *Submission:*
+    https://www.canva.com/design/DAGS030B_1w/eF5TdqaOkMITtaJ2X-_W4g/edit?utm_content=DAGS030B_1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
 # *Unix tree for the project, saved at the source directory*
 ```python
 ├───components
@@ -71,9 +75,7 @@ Landsat missions have provided the longest continuous dataset of remotely sensed
             OurMap.module.scss (Styling the map component)
 ```
 
-
-# *Submission:*
-    https://www.canva.com/design/DAGS030B_1w/eF5TdqaOkMITtaJ2X-_W4g/edit?utm_content=DAGS030B_1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+# *Team members:*
     
 # *Manuel:*
     https://github.com/Hvnt3rK3ys
