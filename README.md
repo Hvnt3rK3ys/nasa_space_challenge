@@ -54,7 +54,7 @@
 
 # TeKnoCrafters:
 
-#[https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members)
+[https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/mmda_teknocrafters_mmda/?tab=members)
 
 
 ## About the Challenge
