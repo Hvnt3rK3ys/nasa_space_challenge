@@ -67,6 +67,11 @@ Dedicated to creating value through our solutions. Specifically, we aim to optim
 Our project focuses on developing a web-based application that supports the comparison of ground-based observations with Landsat data. 
 This application will facilitate experiential learning, encourage scientific exploration, foster interdisciplinary and spatial thinking skills, and empower individuals to become informed global citizens.
 
+
+# *Submission:*
+[https://www.canva.com/design/DAGS030B_1w/eF5TdqaOkMITtaJ2X-_W4g/edit?utm_content=DAGS030B_1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+(https://www.canva.com/design/DAGS030B_1w/eF5TdqaOkMITtaJ2X-_W4g/edit?utm_content=DAGS030B_1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 **Manuel:**
     [https://github.com/Hvnt3rK3ys](https://github.com/Hvnt3rK3ys)
 
