@@ -1,9 +1,8 @@
 # *2024 NASA Space Apps Challenge*
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/a59c70b3-d7cc-4c80-95d7-599435ee4d68" controls="controls" style="max-width: 100%;">
-    Your browser does not support the video tag.
-  </video>
+    <video src="https://github.com/user-attachments/assets/a59c70b3-d7cc-4c80-95d7-599435ee4d68" controls="controls" style="max-width: 100%;">
+    </video>
 </p>
 
 # *TeKnoCrafters:* 
